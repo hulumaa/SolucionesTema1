@@ -1,6 +1,7 @@
 ---
 title: "BoletinTema1ALUMNO"
 output: html_document
+author: "Hugo Lucas Mateos"
 date: "2023-02-15"
 ---
 
